@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44c4e1ad-7fe0-4644-bd17-203d1c3aad63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/Addition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/Division.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/InvalidOperatorException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/Multiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/NumericOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/ScientificCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/SimpleCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalculatorProgram/com/calculator/program/Substraction.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +89,7 @@
       <workItem from="1565276605287" duration="314000" />
       <workItem from="1565759478951" duration="726000" />
       <workItem from="1565761283941" duration="614000" />
-      <workItem from="1566296736682" duration="246000" />
+      <workItem from="1566296736682" duration="718000" />
     </task>
     <servers />
   </component>
